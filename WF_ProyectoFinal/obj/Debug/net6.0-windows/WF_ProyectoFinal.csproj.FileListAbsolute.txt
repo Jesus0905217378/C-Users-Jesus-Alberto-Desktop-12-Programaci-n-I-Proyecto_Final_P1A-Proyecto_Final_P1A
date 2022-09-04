@@ -1,0 +1,58 @@
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.exe
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.deps.json
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\ref\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.pdb
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.Form1.resources
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.AssemblyInfo.cs
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\ref\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.pdb
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.genruntimeconfig.cache
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.deps.json
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.exe
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.CopyComplete
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.deps.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.exe
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.exe
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.deps.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\ref\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\WF_ProyectoFinal.pdb
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\bin\Debug\net6.0-windows\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.Form1.resources
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.AssemblyInfo.cs
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.csproj.CopyComplete
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\ref\WF_ProyectoFinal.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.pdb
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\WF_ProyectoFinal\obj\Debug\net6.0-windows\WF_ProyectoFinal.genruntimeconfig.cache

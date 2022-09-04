@@ -1,0 +1,44 @@
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.exe
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.deps.json
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\ref\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.AssemblyInfoInputs.cache
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.AssemblyInfo.cs
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.CopyComplete
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\ref\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.genruntimeconfig.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.exe
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.deps.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.runtimeconfig.json
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\ref\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.AssemblyReference.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.AssemblyInfoInputs.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.AssemblyInfo.cs
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.csproj.CopyComplete
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\ref\Proyecto_Final_P1A.dll
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.pdb
+C:\Users\Jesus Alberto\Desktop\12 Programación I\Proyecto_Final_P1A\Proyecto_Final_P1A\obj\Debug\net6.0\Proyecto_Final_P1A.genruntimeconfig.cache
